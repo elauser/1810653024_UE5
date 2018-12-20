@@ -1,3 +1,5 @@
+package Aufgabe1;
+
 public abstract class Sauugetier {
     String name;
     int alter;
